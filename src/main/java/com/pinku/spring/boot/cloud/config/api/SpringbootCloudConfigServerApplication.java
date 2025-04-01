@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
+// https://www.youtube.com/watch?v=kaNHT6_MV-Q&t=1376s
+
 @SpringBootApplication
 @EnableConfigServer
 @EnableEurekaClient
